@@ -81,6 +81,5 @@
                 Source="Images\Dog.jpg"
                 Width="300"/>
         </StackPanel>
-
     </Grid>
 </Window>
